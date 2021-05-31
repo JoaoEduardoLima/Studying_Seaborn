@@ -1,0 +1,8 @@
+Nova análise
+No início do curso, realizamos a análise de um arquivo chamado tips.csv que tinha em sua base de dados 244 registros. Porém, com o passar do tempo, esta base de dados fictícia recebeu mais clientes e mais gorjetas.
+
+Que tal analisar o tips_atualizado.csv, que contém mais de 3 mil registros, e ver como ficam os gráficos, as descrições e os testes de hipótese?
+
+https://s3.amazonaws.com/caelum-online-public/1039-seaborn/material/tips_atualizado.csv
+
+execute todas as linhas de seu notebook e compare os resultados.
